@@ -1,2 +1,5 @@
 # Room-booking-service-mini-project
 This project was assigned to me as part of The Fundamentals of programming course. It was originally meant to be written in c++ but i decided to challenge myself and write another python version of it. 
+The main goal of the project was to code and test a system that allows users to book rooms and calculates their fee after applying discounts in certain cases. The main requirements were to print the room details, take in user's wish. Using a function to calculate the fee and another to apply a discount if the fee exceeds 180 ringgits.
+The c++ version depended on basic input/ output handling and little manipulation, with harder aspects being coded using conditional statements, loops and defined functions. 
+The python version excelled as it supported Dataframe structures, equivelent to the multiple arrays used in c++. It was also easier to print the room details. Other than that the functions were pretty similar, taking into account variable type casting. Python also allowed us to raise errors, relative to simply declaring them. 
